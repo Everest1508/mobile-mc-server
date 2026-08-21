@@ -1,0 +1,7 @@
+{
+  "name": "MobileCraft Server",
+  "description": "Create, configure, start, stop, and manage Minecraft Java Edition servers directly on Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
